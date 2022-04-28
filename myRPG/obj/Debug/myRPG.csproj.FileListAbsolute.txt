@@ -1,0 +1,7 @@
+C:\Users\Nate Zephyr\source\repos\myRPG\bin\Debug\myRPG.exe.config
+C:\Users\Nate Zephyr\source\repos\myRPG\bin\Debug\myRPG.exe
+C:\Users\Nate Zephyr\source\repos\myRPG\bin\Debug\myRPG.pdb
+C:\Users\Nate Zephyr\source\repos\myRPG\obj\Debug\myRPG.csproj.CoreCompileInputs.cache
+C:\Users\Nate Zephyr\source\repos\myRPG\obj\Debug\myRPG.exe
+C:\Users\Nate Zephyr\source\repos\myRPG\obj\Debug\myRPG.pdb
+C:\Users\Nate Zephyr\source\repos\myRPG\obj\Debug\myRPG.csprojAssemblyReference.cache
